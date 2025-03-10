@@ -12,6 +12,7 @@ you'll need to change. If you get stuck and need additional hints, or
 if you want to check your work, look at the completed example in the
 `solution` directory. 
 
+
 ## Part A: Write an Activity Function
 The `translate.go` file contains a function (`GreetInSpanish`) that uses a 
 microservice to get a customized greeting in Spanish. This file also contains 
